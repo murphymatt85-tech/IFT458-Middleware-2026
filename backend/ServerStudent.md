@@ -16,3 +16,14 @@
 - The backend connects to MongoDB Atlas using mongoose
 - Confirmed working by visiting http://localhost:4000
 - DB connection successful message confirms MongoDB is connected
+
+##
+// Student Name: Matt Murphy
+// Student ID: 1235371321
+// Date: 10/25/2026
+
+-Cloned github repo
+-Installed backend dependencies with npm install
+-Configured MongoDB config.env
+-Started the server using node server.js
+-Verified server runs on port 4000 and connected successfully to MongoDB
