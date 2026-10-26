@@ -20,3 +20,12 @@
 - Use browser DevTools device toolbar to simulate mobile screens
 - Selected iPhone 14 profile to test mobile layout
 - The app communicates with the backend running on port 4000
+
+##
+// Student Name: Matt Murphy
+// Student ID: 1235371321
+// Date: 10/25/2026
+
+-Installed React Native with npm install
+-Started Expo with npx expo start
+-Tested application
